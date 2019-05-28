@@ -5,6 +5,5 @@ An NFA, similar to a DFA, consumes a string of input symbols. For each input sym
 google
 ---
 https://stackoverflow.com/questions/1084069/building-a-regex-engine-online-resources<br>
-https://www.jianshu.com/p/879bb15b1198<br>
-https://www.zhihu.com/question/48219401
+
 

@@ -18,7 +18,10 @@ int main(int argc, char **argv)
 		}
 		else {
 			cout << "Finished finding matched strings in "<< argv[i] << ". No matched strings!" << endl;
-		}			
+		}		
+		
+	//while(1){;}
+	
 	return 0;
 }
 
